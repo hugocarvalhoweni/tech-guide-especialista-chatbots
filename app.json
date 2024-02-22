@@ -27,7 +27,7 @@
           {
             "name": "API's Weni",
             "description": "Conhecimento dos endpoints da Weni Plataforma",
-            "keyObjectives": ["Objetivo 1.2", "Objetivo 2.2", "Objetivo 3.2"],
+            "keyObjectives": ["Endpoint de Runs"],
             "contents": [
               {
                 "type": "SITE",
