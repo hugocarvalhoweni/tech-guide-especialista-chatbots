@@ -5,7 +5,7 @@
         "name": "Nivel 1 - Básico",
         "cards": [
           {
-            "name": "Fluxos",
+            "name": "Fluxos teste",
             "description": "Base sólida do funcionamento e utilização dos fluxos",
             "keyObjectives": ["Expressões", "Cartões", "Lógica dos fluxos", "Modularização"],
             "contents": [
