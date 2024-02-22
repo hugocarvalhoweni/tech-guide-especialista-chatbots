@@ -25,8 +25,8 @@
         "name": "Nivel 2 - Intermediário",
         "cards": [
           {
-            "name": "Nome do Cartão Customizado 2",
-            "description": "Descrição do Cartão 2",
+            "name": "API's Weni",
+            "description": "Conhecimento dos endpoints da Weni Plataforma",
             "keyObjectives": ["Objetivo 1.2", "Objetivo 2.2", "Objetivo 3.2"],
             "contents": [
               {
