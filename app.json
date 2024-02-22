@@ -7,7 +7,7 @@
           {
             "name": "Fluxos",
             "description": "Base sólida do funcionamento e utilização dos fluxos",
-            "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
+            "keyObjectives": ["Expressões", "Cartões", "Lógica dos fluxos", "Modularização"],
             "contents": [
               {
                 "type": "SITE",
@@ -17,7 +17,7 @@
             ]
           },
           {
-            "id": "nodejs-fundamentals"
+            "id": "WeniChats"
           }
         ]
       },
